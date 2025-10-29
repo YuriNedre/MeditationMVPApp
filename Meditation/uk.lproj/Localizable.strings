@@ -1,0 +1,35 @@
+//
+//  Localizable.strings
+//  Meditation
+//
+//  Created by Yuri Nedre on 28.10.2025.
+//
+
+"app.title" = "Медитація";
+"ambient.sound" = "Фонова музика";
+"settings.button" = "Налаштування";
+"session.complete.title" = "Сеанс завершено";
+"session.complete.body" = "Чудова робота! Зверни увагу на свої відчуття.";
+
+"start.label" = "Почати";
+"pause.label" = "Пауза";
+"inhale.label" = "Вдих";
+"hold1.label" = "Пауза 1";
+"exhale.label" = "Видих";
+"hold2.label" = "Пауза 2";
+
+"settings.title" = "Налаштування";
+"settings.language.section" = "Мова застосунку";
+"settings.language.picker"  = "Оберіть мову";
+"settings.language.system"  = "Мова системи";
+"settings.session.section"  = "Тривалість сеансу";
+"settings.session.length"   = "Тривалість";
+"settings.pattern.section"  = "Ритм дихання (сек)";
+"settings.tip"              = "Порада: почніть з 4−4−4−2 або 4−7−8−2 і знайдіть комфортний ритм.";
+"close.button"              = "Закрити";
+"apply.button"              = "Застосувати";
+"min.suffix"                = "хв";
+
+"reset.button"              = "Скинути";
+"nextTrack.button"          = "Наступний трек";
+"ambient.title"             = "Фоновий звук";

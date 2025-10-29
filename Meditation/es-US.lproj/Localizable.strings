@@ -1,0 +1,35 @@
+//
+//  Localizable.strings
+//  Meditation
+//
+//  Created by Yuri Nedre on 28.10.2025.
+//
+
+"app.title" = "Meditación";
+"ambient.sound" = "Música de fondo";
+"settings.button" = "Configuración";
+"session.complete.title" = "Sesión completada";
+"session.complete.body" = "¡Buen trabajo! Observa cómo te sientes.";
+
+"start.label" = "Comenzar";
+"pause.label" = "Pausa";
+"inhale.label" = "Inhalar";
+"hold1.label" = "Pausa 1";
+"exhale.label" = "Exhalar";
+"hold2.label" = "Pausa 2";
+
+"settings.title" = "Configuración";
+"settings.language.section" = "Idioma";
+"settings.language.picker"  = "Idioma de la aplicación";
+"settings.language.system"  = "Predeterminado del sistema";
+"settings.session.section"  = "Duración de la sesión";
+"settings.session.length"   = "Duración";
+"settings.pattern.section"  = "Patrón de respiración (seg)";
+"settings.tip"              = "Consejo: comienza con 4−4−4−2 o 4−7−8−2 y ajusta según tu comodidad.";
+"close.button"              = "Cerrar";
+"apply.button"              = "Aplicar";
+"min.suffix"                = "min";
+
+"reset.button"              = "Reiniciar";
+"nextTrack.button"          = "Siguiente pista";
+"ambient.title"             = "Sonido ambiental";
